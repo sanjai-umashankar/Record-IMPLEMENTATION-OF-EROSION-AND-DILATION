@@ -15,11 +15,11 @@ create the structuting element
 Erodde the image
 ### Step5:
 Dilate the image
-
+## Name : SANJAI U
+## Reg No : 212224240145
  
 ## Program:
-## Name : KAMESH RR
-## Reg No : 212223230095
+
 ``` 
 import cv2
 import numpy as np
